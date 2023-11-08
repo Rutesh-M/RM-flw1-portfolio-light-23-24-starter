@@ -1,3 +1,10 @@
+body{
+  background-color: #ff75ff;
+}
+
+.div{
+  background-color: white;
+}
 /* Add flexbox to the navbars. */
 
 /* Format the size of all images. */
