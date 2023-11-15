@@ -16,4 +16,20 @@ body{
 /* Adjust the spacing of your page. */
 
 /* Adjust the positioning of your page.  */
+;
+.heading{
+  width: 490px;
+  margin-right: 0px;
+  
+}
+.headingtitle{
+  text-align: center;
+  margin:auto;
+  background-color: grey;
+  }
 
+.Contact{
+  background-color: whitesmoke;
+  display:flexbox;
+  width: 500px;
+}
